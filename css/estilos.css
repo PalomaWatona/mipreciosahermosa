@@ -16,6 +16,7 @@ body {
     color: #b3003c;
   }
   section {
+    text-align: center;
     font-size: 12px;
     max-width: 800px;
     margin: 2rem auto;
@@ -26,6 +27,7 @@ body {
   }
   .carta p { 
     margin-bottom: 1rem;
+    text-align: left;
   }
   .galeria {
     display: grid;
